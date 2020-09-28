@@ -1,2 +1,0 @@
-# jetbrains
-projects to kotlin
